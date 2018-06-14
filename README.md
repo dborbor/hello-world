@@ -1,4 +1,5 @@
 # hello-world
+Just your standard 'hello world!' repository
 
 Hola! Soy Gokuu, perdon, Daniel!
 
